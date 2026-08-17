@@ -1,0 +1,1 @@
+this fork changes the way wind is handled. it is dependent on a mod that i am developing. This will bypass datapack features and instead provide wind based on biome, time of day, location, and some noise.
